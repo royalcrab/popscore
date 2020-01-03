@@ -1,5 +1,8 @@
 import json
 
+# GNU LGPL
+# (c) royalcrab@bbled.org 2020
+
 json_file = "rects.json"
 new_notes = []
 # mp4_fps = 58.42 # harmonia
