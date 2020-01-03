@@ -1,0 +1,5244 @@
+{
+    "version": 3,
+    "notes": [
+        {
+            "color": 5,
+            "timing": 35,
+            "measure": 1
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 1
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 2
+        },
+        {
+            "color": 9,
+            "timing": 9,
+            "measure": 2
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 2
+        },
+        {
+            "color": 4,
+            "timing": 16,
+            "measure": 2
+        },
+        {
+            "color": 6,
+            "timing": 17,
+            "measure": 2
+        },
+        {
+            "color": 2,
+            "timing": 18,
+            "measure": 2
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 2
+        },
+        {
+            "color": 9,
+            "timing": 33,
+            "measure": 2
+        },
+        {
+            "color": 8,
+            "timing": 36,
+            "measure": 2
+        },
+        {
+            "color": 4,
+            "timing": 40,
+            "measure": 2
+        },
+        {
+            "color": 6,
+            "timing": 41,
+            "measure": 2
+        },
+        {
+            "color": 2,
+            "timing": 42,
+            "measure": 2
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 3
+        },
+        {
+            "color": 9,
+            "timing": 9,
+            "measure": 3
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 3
+        },
+        {
+            "color": 4,
+            "timing": 16,
+            "measure": 3
+        },
+        {
+            "color": 6,
+            "timing": 17,
+            "measure": 3
+        },
+        {
+            "color": 2,
+            "timing": 18,
+            "measure": 3
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 3
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 3
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 3
+        },
+        {
+            "color": 1,
+            "timing": 42,
+            "measure": 3
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 4
+        },
+        {
+            "color": 9,
+            "timing": 9,
+            "measure": 4
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 4
+        },
+        {
+            "color": 4,
+            "timing": 16,
+            "measure": 4
+        },
+        {
+            "color": 6,
+            "timing": 17,
+            "measure": 4
+        },
+        {
+            "color": 2,
+            "timing": 18,
+            "measure": 4
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 4
+        },
+        {
+            "color": 5,
+            "timing": 30,
+            "measure": 4
+        },
+        {
+            "color": 9,
+            "timing": 36,
+            "measure": 4
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 4
+        },
+        {
+            "color": 1,
+            "timing": 43,
+            "measure": 4
+        },
+        {
+            "color": 7,
+            "timing": 46,
+            "measure": 4
+        },
+        {
+            "color": 6,
+            "timing": 47,
+            "measure": 4
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 5
+        },
+        {
+            "color": 7,
+            "timing": 6,
+            "measure": 5
+        },
+        {
+            "color": 6,
+            "timing": 12,
+            "measure": 5
+        },
+        {
+            "color": 3,
+            "timing": 18,
+            "measure": 5
+        },
+        {
+            "color": 4,
+            "timing": 24,
+            "measure": 5
+        },
+        {
+            "color": 1,
+            "timing": 30,
+            "measure": 5
+        },
+        {
+            "color": 2,
+            "timing": 33,
+            "measure": 5
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 5
+        },
+        {
+            "color": 3,
+            "timing": 40,
+            "measure": 5
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 5
+        },
+        {
+            "color": 4,
+            "timing": 47,
+            "measure": 5
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 6
+        },
+        {
+            "color": 9,
+            "timing": 9,
+            "measure": 6
+        },
+        {
+            "color": 1,
+            "timing": 9,
+            "measure": 6
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 6
+        },
+        {
+            "color": 4,
+            "timing": 16,
+            "measure": 6
+        },
+        {
+            "color": 6,
+            "timing": 17,
+            "measure": 6
+        },
+        {
+            "color": 2,
+            "timing": 18,
+            "measure": 6
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 6
+        },
+        {
+            "color": 1,
+            "timing": 30,
+            "measure": 6
+        },
+        {
+            "color": 9,
+            "timing": 33,
+            "measure": 6
+        },
+        {
+            "color": 8,
+            "timing": 36,
+            "measure": 6
+        },
+        {
+            "color": 4,
+            "timing": 40,
+            "measure": 6
+        },
+        {
+            "color": 6,
+            "timing": 41,
+            "measure": 6
+        },
+        {
+            "color": 2,
+            "timing": 42,
+            "measure": 6
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 7
+        },
+        {
+            "color": 9,
+            "timing": 9,
+            "measure": 7
+        },
+        {
+            "color": 1,
+            "timing": 9,
+            "measure": 7
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 7
+        },
+        {
+            "color": 4,
+            "timing": 16,
+            "measure": 7
+        },
+        {
+            "color": 6,
+            "timing": 17,
+            "measure": 7
+        },
+        {
+            "color": 2,
+            "timing": 18,
+            "measure": 7
+        },
+        {
+            "color": 4,
+            "timing": 24,
+            "measure": 7
+        },
+        {
+            "color": 7,
+            "timing": 30,
+            "measure": 7
+        },
+        {
+            "color": 7,
+            "timing": 36,
+            "measure": 7
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 7
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 7
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 8
+        },
+        {
+            "color": 9,
+            "timing": 9,
+            "measure": 8
+        },
+        {
+            "color": 1,
+            "timing": 9,
+            "measure": 8
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 8
+        },
+        {
+            "color": 4,
+            "timing": 16,
+            "measure": 8
+        },
+        {
+            "color": 6,
+            "timing": 17,
+            "measure": 8
+        },
+        {
+            "color": 2,
+            "timing": 18,
+            "measure": 8
+        },
+        {
+            "color": 5,
+            "timing": 24,
+            "measure": 8
+        },
+        {
+            "color": 8,
+            "timing": 30,
+            "measure": 8
+        },
+        {
+            "color": 2,
+            "timing": 30,
+            "measure": 8
+        },
+        {
+            "color": 3,
+            "timing": 33,
+            "measure": 8
+        },
+        {
+            "color": 5,
+            "timing": 33,
+            "measure": 8
+        },
+        {
+            "color": 7,
+            "timing": 33,
+            "measure": 8
+        },
+        {
+            "color": 7,
+            "timing": 36,
+            "measure": 8
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 8
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 8
+        },
+        {
+            "color": 9,
+            "timing": 42,
+            "measure": 8
+        },
+        {
+            "color": 1,
+            "timing": 42,
+            "measure": 8
+        },
+        {
+            "color": 3,
+            "timing": 42,
+            "measure": 8
+        },
+        {
+            "color": 7,
+            "timing": 42,
+            "measure": 8
+        },
+        {
+            "color": 9,
+            "timing": 0,
+            "measure": 9
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 9
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 9
+        },
+        {
+            "color": 3,
+            "timing": 0,
+            "measure": 9
+        },
+        {
+            "color": 4,
+            "timing": 5,
+            "measure": 9
+        },
+        {
+            "color": 6,
+            "timing": 9,
+            "measure": 9
+        },
+        {
+            "color": 2,
+            "timing": 12,
+            "measure": 9
+        },
+        {
+            "color": 1,
+            "timing": 12,
+            "measure": 9
+        },
+        {
+            "color": 6,
+            "timing": 18,
+            "measure": 9
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 9
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 9
+        },
+        {
+            "color": 4,
+            "timing": 29,
+            "measure": 9
+        },
+        {
+            "color": 6,
+            "timing": 33,
+            "measure": 9
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 9
+        },
+        {
+            "color": 2,
+            "timing": 36,
+            "measure": 9
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 9
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 9
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 10
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 10
+        },
+        {
+            "color": 3,
+            "timing": 0,
+            "measure": 10
+        },
+        {
+            "color": 5,
+            "timing": 5,
+            "measure": 10
+        },
+        {
+            "color": 7,
+            "timing": 9,
+            "measure": 10
+        },
+        {
+            "color": 2,
+            "timing": 12,
+            "measure": 10
+        },
+        {
+            "color": 1,
+            "timing": 12,
+            "measure": 10
+        },
+        {
+            "color": 7,
+            "timing": 18,
+            "measure": 10
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 10
+        },
+        {
+            "color": 9,
+            "timing": 24,
+            "measure": 10
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 10
+        },
+        {
+            "color": 7,
+            "timing": 33,
+            "measure": 10
+        },
+        {
+            "color": 8,
+            "timing": 35,
+            "measure": 10
+        },
+        {
+            "color": 2,
+            "timing": 36,
+            "measure": 10
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 10
+        },
+        {
+            "color": 7,
+            "timing": 36,
+            "measure": 10
+        },
+        {
+            "color": 5,
+            "timing": 45,
+            "measure": 10
+        },
+        {
+            "color": 6,
+            "timing": 47,
+            "measure": 10
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 11
+        },
+        {
+            "color": 3,
+            "timing": 0,
+            "measure": 11
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 11
+        },
+        {
+            "color": 6,
+            "timing": 5,
+            "measure": 11
+        },
+        {
+            "color": 8,
+            "timing": 9,
+            "measure": 11
+        },
+        {
+            "color": 2,
+            "timing": 12,
+            "measure": 11
+        },
+        {
+            "color": 1,
+            "timing": 12,
+            "measure": 11
+        },
+        {
+            "color": 8,
+            "timing": 18,
+            "measure": 11
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 11
+        },
+        {
+            "color": 4,
+            "timing": 24,
+            "measure": 11
+        },
+        {
+            "color": 5,
+            "timing": 24,
+            "measure": 11
+        },
+        {
+            "color": 7,
+            "timing": 29,
+            "measure": 11
+        },
+        {
+            "color": 9,
+            "timing": 33,
+            "measure": 11
+        },
+        {
+            "color": 6,
+            "timing": 36,
+            "measure": 11
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 11
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 11
+        },
+        {
+            "color": 9,
+            "timing": 42,
+            "measure": 11
+        },
+        {
+            "color": 7,
+            "timing": 45,
+            "measure": 11
+        },
+        {
+            "color": 8,
+            "timing": 47,
+            "measure": 11
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 12
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 12
+        },
+        {
+            "color": 2,
+            "timing": 5,
+            "measure": 12
+        },
+        {
+            "color": 8,
+            "timing": 6,
+            "measure": 12
+        },
+        {
+            "color": 6,
+            "timing": 12,
+            "measure": 12
+        },
+        {
+            "color": 1,
+            "timing": 12,
+            "measure": 12
+        },
+        {
+            "color": 4,
+            "timing": 18,
+            "measure": 12
+        },
+        {
+            "color": 2,
+            "timing": 18,
+            "measure": 12
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 12
+        },
+        {
+            "color": 5,
+            "timing": 24,
+            "measure": 12
+        },
+        {
+            "color": 6,
+            "timing": 30,
+            "measure": 12
+        },
+        {
+            "color": 4,
+            "timing": 30,
+            "measure": 12
+        },
+        {
+            "color": 8,
+            "timing": 33,
+            "measure": 12
+        },
+        {
+            "color": 6,
+            "timing": 35,
+            "measure": 12
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 12
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 12
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 12
+        },
+        {
+            "color": 2,
+            "timing": 41,
+            "measure": 12
+        },
+        {
+            "color": 4,
+            "timing": 42,
+            "measure": 12
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 13
+        },
+        {
+            "color": 3,
+            "timing": 0,
+            "measure": 13
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 13
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 13
+        },
+        {
+            "color": 4,
+            "timing": 5,
+            "measure": 13
+        },
+        {
+            "color": 6,
+            "timing": 9,
+            "measure": 13
+        },
+        {
+            "color": 2,
+            "timing": 12,
+            "measure": 13
+        },
+        {
+            "color": 1,
+            "timing": 12,
+            "measure": 13
+        },
+        {
+            "color": 6,
+            "timing": 18,
+            "measure": 13
+        },
+        {
+            "color": 5,
+            "timing": 21,
+            "measure": 13
+        },
+        {
+            "color": 6,
+            "timing": 23,
+            "measure": 13
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 13
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 13
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 13
+        },
+        {
+            "color": 4,
+            "timing": 29,
+            "measure": 13
+        },
+        {
+            "color": 6,
+            "timing": 33,
+            "measure": 13
+        },
+        {
+            "color": 9,
+            "timing": 36,
+            "measure": 13
+        },
+        {
+            "color": 2,
+            "timing": 36,
+            "measure": 13
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 13
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 13
+        },
+        {
+            "color": 8,
+            "timing": 0,
+            "measure": 14
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 14
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 14
+        },
+        {
+            "color": 3,
+            "timing": 5,
+            "measure": 14
+        },
+        {
+            "color": 7,
+            "timing": 9,
+            "measure": 14
+        },
+        {
+            "color": 5,
+            "timing": 12,
+            "measure": 14
+        },
+        {
+            "color": 1,
+            "timing": 12,
+            "measure": 14
+        },
+        {
+            "color": 7,
+            "timing": 18,
+            "measure": 14
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 14
+        },
+        {
+            "color": 9,
+            "timing": 24,
+            "measure": 14
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 14
+        },
+        {
+            "color": 2,
+            "timing": 29,
+            "measure": 14
+        },
+        {
+            "color": 6,
+            "timing": 33,
+            "measure": 14
+        },
+        {
+            "color": 8,
+            "timing": 35,
+            "measure": 14
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 14
+        },
+        {
+            "color": 6,
+            "timing": 36,
+            "measure": 14
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 14
+        },
+        {
+            "color": 2,
+            "timing": 42,
+            "measure": 14
+        },
+        {
+            "color": 8,
+            "timing": 45,
+            "measure": 14
+        },
+        {
+            "color": 7,
+            "timing": 46,
+            "measure": 14
+        },
+        {
+            "color": 6,
+            "timing": 0,
+            "measure": 15
+        },
+        {
+            "color": 3,
+            "timing": 0,
+            "measure": 15
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 15
+        },
+        {
+            "color": 5,
+            "timing": 5,
+            "measure": 15
+        },
+        {
+            "color": 7,
+            "timing": 9,
+            "measure": 15
+        },
+        {
+            "color": 2,
+            "timing": 12,
+            "measure": 15
+        },
+        {
+            "color": 1,
+            "timing": 12,
+            "measure": 15
+        },
+        {
+            "color": 7,
+            "timing": 18,
+            "measure": 15
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 15
+        },
+        {
+            "color": 4,
+            "timing": 24,
+            "measure": 15
+        },
+        {
+            "color": 5,
+            "timing": 24,
+            "measure": 15
+        },
+        {
+            "color": 8,
+            "timing": 30,
+            "measure": 15
+        },
+        {
+            "color": 9,
+            "timing": 33,
+            "measure": 15
+        },
+        {
+            "color": 7,
+            "timing": 36,
+            "measure": 15
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 15
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 15
+        },
+        {
+            "color": 9,
+            "timing": 42,
+            "measure": 15
+        },
+        {
+            "color": 5,
+            "timing": 45,
+            "measure": 15
+        },
+        {
+            "color": 7,
+            "timing": 47,
+            "measure": 15
+        },
+        {
+            "color": 2,
+            "timing": 0,
+            "measure": 16
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 16
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 16
+        },
+        {
+            "color": 7,
+            "timing": 5,
+            "measure": 16
+        },
+        {
+            "color": 9,
+            "timing": 6,
+            "measure": 16
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 16
+        },
+        {
+            "color": 2,
+            "timing": 12,
+            "measure": 16
+        },
+        {
+            "color": 1,
+            "timing": 12,
+            "measure": 16
+        },
+        {
+            "color": 6,
+            "timing": 18,
+            "measure": 16
+        },
+        {
+            "color": 3,
+            "timing": 18,
+            "measure": 16
+        },
+        {
+            "color": 7,
+            "timing": 21,
+            "measure": 16
+        },
+        {
+            "color": 6,
+            "timing": 23,
+            "measure": 16
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 16
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 16
+        },
+        {
+            "color": 5,
+            "timing": 24,
+            "measure": 16
+        },
+        {
+            "color": 8,
+            "timing": 33,
+            "measure": 16
+        },
+        {
+            "color": 2,
+            "timing": 33,
+            "measure": 16
+        },
+        {
+            "color": 7,
+            "timing": 36,
+            "measure": 16
+        },
+        {
+            "color": 9,
+            "timing": 36,
+            "measure": 16
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 16
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 16
+        },
+        {
+            "color": 7,
+            "timing": 42,
+            "measure": 16
+        },
+        {
+            "color": 9,
+            "timing": 42,
+            "measure": 16
+        },
+        {
+            "color": 1,
+            "timing": 42,
+            "measure": 16
+        },
+        {
+            "color": 3,
+            "timing": 42,
+            "measure": 16
+        },
+        {
+            "color": 6,
+            "timing": 45,
+            "measure": 16
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 17
+        },
+        {
+            "color": 2,
+            "timing": 0,
+            "measure": 17
+        },
+        {
+            "color": 5,
+            "timing": 9,
+            "measure": 17
+        },
+        {
+            "color": 8,
+            "timing": 18,
+            "measure": 17
+        },
+        {
+            "color": 6,
+            "timing": 24,
+            "measure": 17
+        },
+        {
+            "color": 7,
+            "timing": 33,
+            "measure": 17
+        },
+        {
+            "color": 6,
+            "timing": 35,
+            "measure": 17
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 17
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 17
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 18
+        },
+        {
+            "color": 8,
+            "timing": 6,
+            "measure": 18
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 18
+        },
+        {
+            "color": 9,
+            "timing": 18,
+            "measure": 18
+        },
+        {
+            "color": 8,
+            "timing": 24,
+            "measure": 18
+        },
+        {
+            "color": 9,
+            "timing": 33,
+            "measure": 18
+        },
+        {
+            "color": 8,
+            "timing": 34,
+            "measure": 18
+        },
+        {
+            "color": 7,
+            "timing": 36,
+            "measure": 18
+        },
+        {
+            "color": 5,
+            "timing": 41,
+            "measure": 18
+        },
+        {
+            "color": 4,
+            "timing": 0,
+            "measure": 19
+        },
+        {
+            "color": 8,
+            "timing": 0,
+            "measure": 19
+        },
+        {
+            "color": 3,
+            "timing": 11,
+            "measure": 19
+        },
+        {
+            "color": 9,
+            "timing": 17,
+            "measure": 19
+        },
+        {
+            "color": 2,
+            "timing": 18,
+            "measure": 19
+        },
+        {
+            "color": 8,
+            "timing": 24,
+            "measure": 19
+        },
+        {
+            "color": 7,
+            "timing": 33,
+            "measure": 19
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 19
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 20
+        },
+        {
+            "color": 4,
+            "timing": 9,
+            "measure": 20
+        },
+        {
+            "color": 5,
+            "timing": 18,
+            "measure": 20
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 20
+        },
+        {
+            "color": 8,
+            "timing": 34,
+            "measure": 20
+        },
+        {
+            "color": 6,
+            "timing": 35,
+            "measure": 20
+        },
+        {
+            "color": 4,
+            "timing": 36,
+            "measure": 20
+        },
+        {
+            "color": 7,
+            "timing": 42,
+            "measure": 20
+        },
+        {
+            "color": 6,
+            "timing": 45,
+            "measure": 20
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 21
+        },
+        {
+            "color": 9,
+            "timing": 0,
+            "measure": 21
+        },
+        {
+            "color": 5,
+            "timing": 9,
+            "measure": 21
+        },
+        {
+            "color": 2,
+            "timing": 9,
+            "measure": 21
+        },
+        {
+            "color": 2,
+            "timing": 18,
+            "measure": 21
+        },
+        {
+            "color": 7,
+            "timing": 18,
+            "measure": 21
+        },
+        {
+            "color": 6,
+            "timing": 24,
+            "measure": 21
+        },
+        {
+            "color": 2,
+            "timing": 30,
+            "measure": 21
+        },
+        {
+            "color": 7,
+            "timing": 33,
+            "measure": 21
+        },
+        {
+            "color": 6,
+            "timing": 35,
+            "measure": 21
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 21
+        },
+        {
+            "color": 2,
+            "timing": 36,
+            "measure": 21
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 21
+        },
+        {
+            "color": 2,
+            "timing": 0,
+            "measure": 22
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 22
+        },
+        {
+            "color": 8,
+            "timing": 6,
+            "measure": 22
+        },
+        {
+            "color": 2,
+            "timing": 9,
+            "measure": 22
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 22
+        },
+        {
+            "color": 9,
+            "timing": 18,
+            "measure": 22
+        },
+        {
+            "color": 2,
+            "timing": 18,
+            "measure": 22
+        },
+        {
+            "color": 8,
+            "timing": 24,
+            "measure": 22
+        },
+        {
+            "color": 2,
+            "timing": 30,
+            "measure": 22
+        },
+        {
+            "color": 9,
+            "timing": 33,
+            "measure": 22
+        },
+        {
+            "color": 8,
+            "timing": 34,
+            "measure": 22
+        },
+        {
+            "color": 2,
+            "timing": 36,
+            "measure": 22
+        },
+        {
+            "color": 7,
+            "timing": 36,
+            "measure": 22
+        },
+        {
+            "color": 3,
+            "timing": 42,
+            "measure": 22
+        },
+        {
+            "color": 4,
+            "timing": 0,
+            "measure": 23
+        },
+        {
+            "color": 2,
+            "timing": 6,
+            "measure": 23
+        },
+        {
+            "color": 5,
+            "timing": 9,
+            "measure": 23
+        },
+        {
+            "color": 2,
+            "timing": 12,
+            "measure": 23
+        },
+        {
+            "color": 1,
+            "timing": 12,
+            "measure": 23
+        },
+        {
+            "color": 6,
+            "timing": 12,
+            "measure": 23
+        },
+        {
+            "color": 9,
+            "timing": 17,
+            "measure": 23
+        },
+        {
+            "color": 8,
+            "timing": 24,
+            "measure": 23
+        },
+        {
+            "color": 2,
+            "timing": 24,
+            "measure": 23
+        },
+        {
+            "color": 7,
+            "timing": 33,
+            "measure": 23
+        },
+        {
+            "color": 2,
+            "timing": 33,
+            "measure": 23
+        },
+        {
+            "color": 2,
+            "timing": 42,
+            "measure": 23
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 23
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 24
+        },
+        {
+            "color": 2,
+            "timing": 6,
+            "measure": 24
+        },
+        {
+            "color": 4,
+            "timing": 9,
+            "measure": 24
+        },
+        {
+            "color": 2,
+            "timing": 12,
+            "measure": 24
+        },
+        {
+            "color": 5,
+            "timing": 18,
+            "measure": 24
+        },
+        {
+            "color": 9,
+            "timing": 24,
+            "measure": 24
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 24
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 24
+        },
+        {
+            "color": 2,
+            "timing": 33,
+            "measure": 24
+        },
+        {
+            "color": 8,
+            "timing": 33,
+            "measure": 24
+        },
+        {
+            "color": 8,
+            "timing": 36,
+            "measure": 24
+        },
+        {
+            "color": 2,
+            "timing": 36,
+            "measure": 24
+        },
+        {
+            "color": 6,
+            "timing": 36,
+            "measure": 24
+        },
+        {
+            "color": 4,
+            "timing": 36,
+            "measure": 24
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 24
+        },
+        {
+            "color": 2,
+            "timing": 42,
+            "measure": 24
+        },
+        {
+            "color": 1,
+            "timing": 44,
+            "measure": 24
+        },
+        {
+            "color": 3,
+            "timing": 46,
+            "measure": 24
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 25
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 25
+        },
+        {
+            "color": 5,
+            "timing": 9,
+            "measure": 25
+        },
+        {
+            "color": 4,
+            "timing": 12,
+            "measure": 25
+        },
+        {
+            "color": 7,
+            "timing": 18,
+            "measure": 25
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 25
+        },
+        {
+            "color": 9,
+            "timing": 24,
+            "measure": 25
+        },
+        {
+            "color": 1,
+            "timing": 30,
+            "measure": 25
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 25
+        },
+        {
+            "color": 4,
+            "timing": 36,
+            "measure": 25
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 25
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 25
+        },
+        {
+            "color": 7,
+            "timing": 45,
+            "measure": 25
+        },
+        {
+            "color": 6,
+            "timing": 0,
+            "measure": 26
+        },
+        {
+            "color": 4,
+            "timing": 0,
+            "measure": 26
+        },
+        {
+            "color": 5,
+            "timing": 9,
+            "measure": 26
+        },
+        {
+            "color": 6,
+            "timing": 18,
+            "measure": 26
+        },
+        {
+            "color": 3,
+            "timing": 18,
+            "measure": 26
+        },
+        {
+            "color": 4,
+            "timing": 21,
+            "measure": 26
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 26
+        },
+        {
+            "color": 5,
+            "timing": 24,
+            "measure": 26
+        },
+        {
+            "color": 9,
+            "timing": 30,
+            "measure": 26
+        },
+        {
+            "color": 4,
+            "timing": 30,
+            "measure": 26
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 26
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 26
+        },
+        {
+            "color": 9,
+            "timing": 36,
+            "measure": 26
+        },
+        {
+            "color": 7,
+            "timing": 42,
+            "measure": 26
+        },
+        {
+            "color": 2,
+            "timing": 42,
+            "measure": 26
+        },
+        {
+            "color": 6,
+            "timing": 45,
+            "measure": 26
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 27
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 27
+        },
+        {
+            "color": 5,
+            "timing": 9,
+            "measure": 27
+        },
+        {
+            "color": 4,
+            "timing": 18,
+            "measure": 27
+        },
+        {
+            "color": 9,
+            "timing": 18,
+            "measure": 27
+        },
+        {
+            "color": 8,
+            "timing": 24,
+            "measure": 27
+        },
+        {
+            "color": 2,
+            "timing": 24,
+            "measure": 27
+        },
+        {
+            "color": 9,
+            "timing": 33,
+            "measure": 27
+        },
+        {
+            "color": 8,
+            "timing": 34,
+            "measure": 27
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 27
+        },
+        {
+            "color": 7,
+            "timing": 36,
+            "measure": 27
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 27
+        },
+        {
+            "color": 3,
+            "timing": 42,
+            "measure": 27
+        },
+        {
+            "color": 2,
+            "timing": 0,
+            "measure": 28
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 28
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 28
+        },
+        {
+            "color": 6,
+            "timing": 12,
+            "measure": 28
+        },
+        {
+            "color": 4,
+            "timing": 24,
+            "measure": 28
+        },
+        {
+            "color": 8,
+            "timing": 30,
+            "measure": 28
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 28
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 28
+        },
+        {
+            "color": 9,
+            "timing": 36,
+            "measure": 28
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 28
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 28
+        },
+        {
+            "color": 2,
+            "timing": 42,
+            "measure": 28
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 29
+        },
+        {
+            "color": 3,
+            "timing": 0,
+            "measure": 29
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 29
+        },
+        {
+            "color": 5,
+            "timing": 12,
+            "measure": 29
+        },
+        {
+            "color": 6,
+            "timing": 18,
+            "measure": 29
+        },
+        {
+            "color": 4,
+            "timing": 21,
+            "measure": 29
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 29
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 29
+        },
+        {
+            "color": 9,
+            "timing": 30,
+            "measure": 29
+        },
+        {
+            "color": 1,
+            "timing": 30,
+            "measure": 29
+        },
+        {
+            "color": 9,
+            "timing": 36,
+            "measure": 29
+        },
+        {
+            "color": 8,
+            "timing": 36,
+            "measure": 29
+        },
+        {
+            "color": 2,
+            "timing": 36,
+            "measure": 29
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 29
+        },
+        {
+            "color": 3,
+            "timing": 0,
+            "measure": 30
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 30
+        },
+        {
+            "color": 5,
+            "timing": 12,
+            "measure": 30
+        },
+        {
+            "color": 2,
+            "timing": 18,
+            "measure": 30
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 30
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 30
+        },
+        {
+            "color": 4,
+            "timing": 30,
+            "measure": 30
+        },
+        {
+            "color": 6,
+            "timing": 30,
+            "measure": 30
+        },
+        {
+            "color": 5,
+            "timing": 30,
+            "measure": 30
+        },
+        {
+            "color": 7,
+            "timing": 36,
+            "measure": 30
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 30
+        },
+        {
+            "color": 9,
+            "timing": 36,
+            "measure": 30
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 30
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 30
+        },
+        {
+            "color": 9,
+            "timing": 0,
+            "measure": 31
+        },
+        {
+            "color": 6,
+            "timing": 0,
+            "measure": 31
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 31
+        },
+        {
+            "color": 2,
+            "timing": 9,
+            "measure": 31
+        },
+        {
+            "color": 7,
+            "timing": 12,
+            "measure": 31
+        },
+        {
+            "color": 5,
+            "timing": 12,
+            "measure": 31
+        },
+        {
+            "color": 2,
+            "timing": 18,
+            "measure": 31
+        },
+        {
+            "color": 6,
+            "timing": 24,
+            "measure": 31
+        },
+        {
+            "color": 5,
+            "timing": 24,
+            "measure": 31
+        },
+        {
+            "color": 7,
+            "timing": 33,
+            "measure": 31
+        },
+        {
+            "color": 6,
+            "timing": 35,
+            "measure": 31
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 31
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 31
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 31
+        },
+        {
+            "color": 2,
+            "timing": 42,
+            "measure": 31
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 32
+        },
+        {
+            "color": 3,
+            "timing": 0,
+            "measure": 32
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 32
+        },
+        {
+            "color": 4,
+            "timing": 4,
+            "measure": 32
+        },
+        {
+            "color": 6,
+            "timing": 6,
+            "measure": 32
+        },
+        {
+            "color": 8,
+            "timing": 10,
+            "measure": 32
+        },
+        {
+            "color": 2,
+            "timing": 12,
+            "measure": 32
+        },
+        {
+            "color": 4,
+            "timing": 18,
+            "measure": 32
+        },
+        {
+            "color": 6,
+            "timing": 22,
+            "measure": 32
+        },
+        {
+            "color": 2,
+            "timing": 24,
+            "measure": 32
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 32
+        },
+        {
+            "color": 4,
+            "timing": 28,
+            "measure": 32
+        },
+        {
+            "color": 8,
+            "timing": 30,
+            "measure": 32
+        },
+        {
+            "color": 9,
+            "timing": 36,
+            "measure": 32
+        },
+        {
+            "color": 2,
+            "timing": 36,
+            "measure": 32
+        },
+        {
+            "color": 4,
+            "timing": 40,
+            "measure": 32
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 32
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 33
+        },
+        {
+            "color": 9,
+            "timing": 0,
+            "measure": 33
+        },
+        {
+            "color": 2,
+            "timing": 0,
+            "measure": 33
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 33
+        },
+        {
+            "color": 3,
+            "timing": 0,
+            "measure": 33
+        },
+        {
+            "color": 8,
+            "timing": 1,
+            "measure": 33
+        },
+        {
+            "color": 9,
+            "timing": 4,
+            "measure": 33
+        },
+        {
+            "color": 2,
+            "timing": 4,
+            "measure": 33
+        },
+        {
+            "color": 7,
+            "timing": 4,
+            "measure": 33
+        },
+        {
+            "color": 3,
+            "timing": 4,
+            "measure": 33
+        },
+        {
+            "color": 1,
+            "timing": 5,
+            "measure": 33
+        },
+        {
+            "color": 8,
+            "timing": 5,
+            "measure": 33
+        },
+        {
+            "color": 7,
+            "timing": 8,
+            "measure": 33
+        },
+        {
+            "color": 9,
+            "timing": 8,
+            "measure": 33
+        },
+        {
+            "color": 2,
+            "timing": 8,
+            "measure": 33
+        },
+        {
+            "color": 1,
+            "timing": 8,
+            "measure": 33
+        },
+        {
+            "color": 3,
+            "timing": 8,
+            "measure": 33
+        },
+        {
+            "color": 8,
+            "timing": 9,
+            "measure": 33
+        },
+        {
+            "color": 7,
+            "timing": 15,
+            "measure": 33
+        },
+        {
+            "color": 9,
+            "timing": 16,
+            "measure": 33
+        },
+        {
+            "color": 2,
+            "timing": 16,
+            "measure": 33
+        },
+        {
+            "color": 1,
+            "timing": 16,
+            "measure": 33
+        },
+        {
+            "color": 3,
+            "timing": 16,
+            "measure": 33
+        },
+        {
+            "color": 8,
+            "timing": 17,
+            "measure": 33
+        },
+        {
+            "color": 7,
+            "timing": 20,
+            "measure": 33
+        },
+        {
+            "color": 9,
+            "timing": 20,
+            "measure": 33
+        },
+        {
+            "color": 2,
+            "timing": 20,
+            "measure": 33
+        },
+        {
+            "color": 3,
+            "timing": 20,
+            "measure": 33
+        },
+        {
+            "color": 1,
+            "timing": 20,
+            "measure": 33
+        },
+        {
+            "color": 8,
+            "timing": 21,
+            "measure": 33
+        },
+        {
+            "color": 5,
+            "timing": 24,
+            "measure": 33
+        },
+        {
+            "color": 6,
+            "timing": 24,
+            "measure": 33
+        },
+        {
+            "color": 2,
+            "timing": 24,
+            "measure": 33
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 33
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 33
+        },
+        {
+            "color": 7,
+            "timing": 25,
+            "measure": 33
+        },
+        {
+            "color": 2,
+            "timing": 33,
+            "measure": 33
+        },
+        {
+            "color": 1,
+            "timing": 33,
+            "measure": 33
+        },
+        {
+            "color": 6,
+            "timing": 33,
+            "measure": 33
+        },
+        {
+            "color": 5,
+            "timing": 33,
+            "measure": 33
+        },
+        {
+            "color": 7,
+            "timing": 33,
+            "measure": 33
+        },
+        {
+            "color": 2,
+            "timing": 36,
+            "measure": 33
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 33
+        },
+        {
+            "color": 7,
+            "timing": 36,
+            "measure": 33
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 33
+        },
+        {
+            "color": 6,
+            "timing": 36,
+            "measure": 33
+        },
+        {
+            "color": 2,
+            "timing": 42,
+            "measure": 33
+        },
+        {
+            "color": 1,
+            "timing": 42,
+            "measure": 33
+        },
+        {
+            "color": 5,
+            "timing": 42,
+            "measure": 33
+        },
+        {
+            "color": 7,
+            "timing": 42,
+            "measure": 33
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 33
+        },
+        {
+            "color": 6,
+            "timing": 0,
+            "measure": 34
+        },
+        {
+            "color": 4,
+            "timing": 0,
+            "measure": 34
+        },
+        {
+            "color": 8,
+            "timing": 0,
+            "measure": 34
+        },
+        {
+            "color": 1,
+            "timing": 6,
+            "measure": 34
+        },
+        {
+            "color": 9,
+            "timing": 9,
+            "measure": 34
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 34
+        },
+        {
+            "color": 4,
+            "timing": 16,
+            "measure": 34
+        },
+        {
+            "color": 6,
+            "timing": 17,
+            "measure": 34
+        },
+        {
+            "color": 1,
+            "timing": 18,
+            "measure": 34
+        },
+        {
+            "color": 3,
+            "timing": 18,
+            "measure": 34
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 34
+        },
+        {
+            "color": 1,
+            "timing": 30,
+            "measure": 34
+        },
+        {
+            "color": 9,
+            "timing": 33,
+            "measure": 34
+        },
+        {
+            "color": 2,
+            "timing": 33,
+            "measure": 34
+        },
+        {
+            "color": 8,
+            "timing": 36,
+            "measure": 34
+        },
+        {
+            "color": 4,
+            "timing": 40,
+            "measure": 34
+        },
+        {
+            "color": 6,
+            "timing": 41,
+            "measure": 34
+        },
+        {
+            "color": 3,
+            "timing": 42,
+            "measure": 34
+        },
+        {
+            "color": 1,
+            "timing": 42,
+            "measure": 34
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 35
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 35
+        },
+        {
+            "color": 1,
+            "timing": 6,
+            "measure": 35
+        },
+        {
+            "color": 9,
+            "timing": 9,
+            "measure": 35
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 35
+        },
+        {
+            "color": 4,
+            "timing": 16,
+            "measure": 35
+        },
+        {
+            "color": 6,
+            "timing": 17,
+            "measure": 35
+        },
+        {
+            "color": 3,
+            "timing": 18,
+            "measure": 35
+        },
+        {
+            "color": 1,
+            "timing": 18,
+            "measure": 35
+        },
+        {
+            "color": 5,
+            "timing": 24,
+            "measure": 35
+        },
+        {
+            "color": 2,
+            "timing": 33,
+            "measure": 35
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 35
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 35
+        },
+        {
+            "color": 2,
+            "timing": 42,
+            "measure": 35
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 36
+        },
+        {
+            "color": 3,
+            "timing": 0,
+            "measure": 36
+        },
+        {
+            "color": 1,
+            "timing": 6,
+            "measure": 36
+        },
+        {
+            "color": 9,
+            "timing": 9,
+            "measure": 36
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 36
+        },
+        {
+            "color": 4,
+            "timing": 16,
+            "measure": 36
+        },
+        {
+            "color": 6,
+            "timing": 17,
+            "measure": 36
+        },
+        {
+            "color": 1,
+            "timing": 18,
+            "measure": 36
+        },
+        {
+            "color": 3,
+            "timing": 18,
+            "measure": 36
+        },
+        {
+            "color": 5,
+            "timing": 24,
+            "measure": 36
+        },
+        {
+            "color": 7,
+            "timing": 30,
+            "measure": 36
+        },
+        {
+            "color": 1,
+            "timing": 30,
+            "measure": 36
+        },
+        {
+            "color": 2,
+            "timing": 33,
+            "measure": 36
+        },
+        {
+            "color": 9,
+            "timing": 36,
+            "measure": 36
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 36
+        },
+        {
+            "color": 1,
+            "timing": 42,
+            "measure": 36
+        },
+        {
+            "color": 7,
+            "timing": 46,
+            "measure": 36
+        },
+        {
+            "color": 6,
+            "timing": 47,
+            "measure": 36
+        },
+        {
+            "color": 3,
+            "timing": 0,
+            "measure": 37
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 37
+        },
+        {
+            "color": 1,
+            "timing": 6,
+            "measure": 37
+        },
+        {
+            "color": 7,
+            "timing": 6,
+            "measure": 37
+        },
+        {
+            "color": 6,
+            "timing": 12,
+            "measure": 37
+        },
+        {
+            "color": 4,
+            "timing": 18,
+            "measure": 37
+        },
+        {
+            "color": 1,
+            "timing": 18,
+            "measure": 37
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 37
+        },
+        {
+            "color": 5,
+            "timing": 24,
+            "measure": 37
+        },
+        {
+            "color": 9,
+            "timing": 33,
+            "measure": 37
+        },
+        {
+            "color": 8,
+            "timing": 33,
+            "measure": 37
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 37
+        },
+        {
+            "color": 5,
+            "timing": 42,
+            "measure": 37
+        },
+        {
+            "color": 9,
+            "timing": 42,
+            "measure": 37
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 37
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 38
+        },
+        {
+            "color": 2,
+            "timing": 0,
+            "measure": 38
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 38
+        },
+        {
+            "color": 9,
+            "timing": 9,
+            "measure": 38
+        },
+        {
+            "color": 3,
+            "timing": 9,
+            "measure": 38
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 38
+        },
+        {
+            "color": 7,
+            "timing": 16,
+            "measure": 38
+        },
+        {
+            "color": 6,
+            "timing": 17,
+            "measure": 38
+        },
+        {
+            "color": 3,
+            "timing": 18,
+            "measure": 38
+        },
+        {
+            "color": 5,
+            "timing": 18,
+            "measure": 38
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 38
+        },
+        {
+            "color": 3,
+            "timing": 30,
+            "measure": 38
+        },
+        {
+            "color": 9,
+            "timing": 33,
+            "measure": 38
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 38
+        },
+        {
+            "color": 8,
+            "timing": 36,
+            "measure": 38
+        },
+        {
+            "color": 7,
+            "timing": 40,
+            "measure": 38
+        },
+        {
+            "color": 6,
+            "timing": 41,
+            "measure": 38
+        },
+        {
+            "color": 5,
+            "timing": 42,
+            "measure": 38
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 39
+        },
+        {
+            "color": 4,
+            "timing": 0,
+            "measure": 39
+        },
+        {
+            "color": 9,
+            "timing": 9,
+            "measure": 39
+        },
+        {
+            "color": 3,
+            "timing": 9,
+            "measure": 39
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 39
+        },
+        {
+            "color": 7,
+            "timing": 16,
+            "measure": 39
+        },
+        {
+            "color": 6,
+            "timing": 17,
+            "measure": 39
+        },
+        {
+            "color": 3,
+            "timing": 18,
+            "measure": 39
+        },
+        {
+            "color": 5,
+            "timing": 18,
+            "measure": 39
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 39
+        },
+        {
+            "color": 3,
+            "timing": 30,
+            "measure": 39
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 39
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 39
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 39
+        },
+        {
+            "color": 9,
+            "timing": 42,
+            "measure": 39
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 40
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 40
+        },
+        {
+            "color": 3,
+            "timing": 6,
+            "measure": 40
+        },
+        {
+            "color": 9,
+            "timing": 9,
+            "measure": 40
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 40
+        },
+        {
+            "color": 3,
+            "timing": 12,
+            "measure": 40
+        },
+        {
+            "color": 7,
+            "timing": 16,
+            "measure": 40
+        },
+        {
+            "color": 6,
+            "timing": 17,
+            "measure": 40
+        },
+        {
+            "color": 5,
+            "timing": 18,
+            "measure": 40
+        },
+        {
+            "color": 6,
+            "timing": 24,
+            "measure": 40
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 40
+        },
+        {
+            "color": 7,
+            "timing": 30,
+            "measure": 40
+        },
+        {
+            "color": 3,
+            "timing": 33,
+            "measure": 40
+        },
+        {
+            "color": 9,
+            "timing": 36,
+            "measure": 40
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 40
+        },
+        {
+            "color": 3,
+            "timing": 42,
+            "measure": 40
+        },
+        {
+            "color": 9,
+            "timing": 46,
+            "measure": 40
+        },
+        {
+            "color": 8,
+            "timing": 47,
+            "measure": 40
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 41
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 41
+        },
+        {
+            "color": 8,
+            "timing": 6,
+            "measure": 41
+        },
+        {
+            "color": 3,
+            "timing": 6,
+            "measure": 41
+        },
+        {
+            "color": 6,
+            "timing": 12,
+            "measure": 41
+        },
+        {
+            "color": 3,
+            "timing": 12,
+            "measure": 41
+        },
+        {
+            "color": 4,
+            "timing": 18,
+            "measure": 41
+        },
+        {
+            "color": 5,
+            "timing": 24,
+            "measure": 41
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 41
+        },
+        {
+            "color": 9,
+            "timing": 33,
+            "measure": 41
+        },
+        {
+            "color": 1,
+            "timing": 33,
+            "measure": 41
+        },
+        {
+            "color": 6,
+            "timing": 36,
+            "measure": 41
+        },
+        {
+            "color": 4,
+            "timing": 36,
+            "measure": 41
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 41
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 41
+        },
+        {
+            "color": 2,
+            "timing": 42,
+            "measure": 41
+        },
+        {
+            "color": 4,
+            "timing": 42,
+            "measure": 41
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 42
+        },
+        {
+            "color": 3,
+            "timing": 0,
+            "measure": 42
+        },
+        {
+            "color": 8,
+            "timing": 9,
+            "measure": 42
+        },
+        {
+            "color": 4,
+            "timing": 9,
+            "measure": 42
+        },
+        {
+            "color": 6,
+            "timing": 12,
+            "measure": 42
+        },
+        {
+            "color": 2,
+            "timing": 12,
+            "measure": 42
+        },
+        {
+            "color": 3,
+            "timing": 16,
+            "measure": 42
+        },
+        {
+            "color": 7,
+            "timing": 16,
+            "measure": 42
+        },
+        {
+            "color": 6,
+            "timing": 17,
+            "measure": 42
+        },
+        {
+            "color": 2,
+            "timing": 17,
+            "measure": 42
+        },
+        {
+            "color": 1,
+            "timing": 18,
+            "measure": 42
+        },
+        {
+            "color": 5,
+            "timing": 18,
+            "measure": 42
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 42
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 42
+        },
+        {
+            "color": 4,
+            "timing": 33,
+            "measure": 42
+        },
+        {
+            "color": 8,
+            "timing": 33,
+            "measure": 42
+        },
+        {
+            "color": 6,
+            "timing": 36,
+            "measure": 42
+        },
+        {
+            "color": 2,
+            "timing": 36,
+            "measure": 42
+        },
+        {
+            "color": 3,
+            "timing": 40,
+            "measure": 42
+        },
+        {
+            "color": 7,
+            "timing": 40,
+            "measure": 42
+        },
+        {
+            "color": 2,
+            "timing": 41,
+            "measure": 42
+        },
+        {
+            "color": 6,
+            "timing": 41,
+            "measure": 42
+        },
+        {
+            "color": 1,
+            "timing": 42,
+            "measure": 42
+        },
+        {
+            "color": 5,
+            "timing": 42,
+            "measure": 42
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 43
+        },
+        {
+            "color": 3,
+            "timing": 0,
+            "measure": 43
+        },
+        {
+            "color": 4,
+            "timing": 9,
+            "measure": 43
+        },
+        {
+            "color": 8,
+            "timing": 9,
+            "measure": 43
+        },
+        {
+            "color": 6,
+            "timing": 12,
+            "measure": 43
+        },
+        {
+            "color": 2,
+            "timing": 12,
+            "measure": 43
+        },
+        {
+            "color": 3,
+            "timing": 16,
+            "measure": 43
+        },
+        {
+            "color": 7,
+            "timing": 16,
+            "measure": 43
+        },
+        {
+            "color": 2,
+            "timing": 17,
+            "measure": 43
+        },
+        {
+            "color": 6,
+            "timing": 17,
+            "measure": 43
+        },
+        {
+            "color": 5,
+            "timing": 18,
+            "measure": 43
+        },
+        {
+            "color": 1,
+            "timing": 18,
+            "measure": 43
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 43
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 43
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 43
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 43
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 43
+        },
+        {
+            "color": 4,
+            "timing": 42,
+            "measure": 43
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 43
+        },
+        {
+            "color": 2,
+            "timing": 42,
+            "measure": 43
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 44
+        },
+        {
+            "color": 3,
+            "timing": 0,
+            "measure": 44
+        },
+        {
+            "color": 8,
+            "timing": 9,
+            "measure": 44
+        },
+        {
+            "color": 4,
+            "timing": 9,
+            "measure": 44
+        },
+        {
+            "color": 6,
+            "timing": 12,
+            "measure": 44
+        },
+        {
+            "color": 2,
+            "timing": 12,
+            "measure": 44
+        },
+        {
+            "color": 3,
+            "timing": 16,
+            "measure": 44
+        },
+        {
+            "color": 7,
+            "timing": 16,
+            "measure": 44
+        },
+        {
+            "color": 6,
+            "timing": 17,
+            "measure": 44
+        },
+        {
+            "color": 2,
+            "timing": 17,
+            "measure": 44
+        },
+        {
+            "color": 1,
+            "timing": 18,
+            "measure": 44
+        },
+        {
+            "color": 5,
+            "timing": 18,
+            "measure": 44
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 44
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 44
+        },
+        {
+            "color": 4,
+            "timing": 30,
+            "measure": 44
+        },
+        {
+            "color": 8,
+            "timing": 30,
+            "measure": 44
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 44
+        },
+        {
+            "color": 9,
+            "timing": 36,
+            "measure": 44
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 44
+        },
+        {
+            "color": 4,
+            "timing": 42,
+            "measure": 44
+        },
+        {
+            "color": 9,
+            "timing": 46,
+            "measure": 44
+        },
+        {
+            "color": 5,
+            "timing": 46,
+            "measure": 44
+        },
+        {
+            "color": 4,
+            "timing": 47,
+            "measure": 44
+        },
+        {
+            "color": 8,
+            "timing": 47,
+            "measure": 44
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 45
+        },
+        {
+            "color": 3,
+            "timing": 0,
+            "measure": 45
+        },
+        {
+            "color": 8,
+            "timing": 6,
+            "measure": 45
+        },
+        {
+            "color": 5,
+            "timing": 6,
+            "measure": 45
+        },
+        {
+            "color": 7,
+            "timing": 12,
+            "measure": 45
+        },
+        {
+            "color": 4,
+            "timing": 12,
+            "measure": 45
+        },
+        {
+            "color": 6,
+            "timing": 18,
+            "measure": 45
+        },
+        {
+            "color": 3,
+            "timing": 18,
+            "measure": 45
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 45
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 45
+        },
+        {
+            "color": 5,
+            "timing": 24,
+            "measure": 45
+        },
+        {
+            "color": 4,
+            "timing": 33,
+            "measure": 45
+        },
+        {
+            "color": 6,
+            "timing": 33,
+            "measure": 45
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 45
+        },
+        {
+            "color": 4,
+            "timing": 42,
+            "measure": 45
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 46
+        },
+        {
+            "color": 9,
+            "timing": 0,
+            "measure": 46
+        },
+        {
+            "color": 2,
+            "timing": 3,
+            "measure": 46
+        },
+        {
+            "color": 4,
+            "timing": 5,
+            "measure": 46
+        },
+        {
+            "color": 6,
+            "timing": 6,
+            "measure": 46
+        },
+        {
+            "color": 8,
+            "timing": 10,
+            "measure": 46
+        },
+        {
+            "color": 3,
+            "timing": 12,
+            "measure": 46
+        },
+        {
+            "color": 7,
+            "timing": 16,
+            "measure": 46
+        },
+        {
+            "color": 9,
+            "timing": 18,
+            "measure": 46
+        },
+        {
+            "color": 2,
+            "timing": 21,
+            "measure": 46
+        },
+        {
+            "color": 4,
+            "timing": 23,
+            "measure": 46
+        },
+        {
+            "color": 6,
+            "timing": 24,
+            "measure": 46
+        },
+        {
+            "color": 8,
+            "timing": 28,
+            "measure": 46
+        },
+        {
+            "color": 3,
+            "timing": 30,
+            "measure": 46
+        },
+        {
+            "color": 7,
+            "timing": 34,
+            "measure": 46
+        },
+        {
+            "color": 9,
+            "timing": 36,
+            "measure": 46
+        },
+        {
+            "color": 1,
+            "timing": 39,
+            "measure": 46
+        },
+        {
+            "color": 2,
+            "timing": 41,
+            "measure": 46
+        },
+        {
+            "color": 3,
+            "timing": 42,
+            "measure": 46
+        },
+        {
+            "color": 5,
+            "timing": 46,
+            "measure": 46
+        },
+        {
+            "color": 4,
+            "timing": 0,
+            "measure": 47
+        },
+        {
+            "color": 6,
+            "timing": 4,
+            "measure": 47
+        },
+        {
+            "color": 3,
+            "timing": 6,
+            "measure": 47
+        },
+        {
+            "color": 7,
+            "timing": 9,
+            "measure": 47
+        },
+        {
+            "color": 8,
+            "timing": 11,
+            "measure": 47
+        },
+        {
+            "color": 9,
+            "timing": 12,
+            "measure": 47
+        },
+        {
+            "color": 1,
+            "timing": 16,
+            "measure": 47
+        },
+        {
+            "color": 5,
+            "timing": 18,
+            "measure": 47
+        },
+        {
+            "color": 9,
+            "timing": 22,
+            "measure": 47
+        },
+        {
+            "color": 6,
+            "timing": 24,
+            "measure": 47
+        },
+        {
+            "color": 4,
+            "timing": 24,
+            "measure": 47
+        },
+        {
+            "color": 2,
+            "timing": 27,
+            "measure": 47
+        },
+        {
+            "color": 8,
+            "timing": 29,
+            "measure": 47
+        },
+        {
+            "color": 6,
+            "timing": 30,
+            "measure": 47
+        },
+        {
+            "color": 8,
+            "timing": 33,
+            "measure": 47
+        },
+        {
+            "color": 2,
+            "timing": 35,
+            "measure": 47
+        },
+        {
+            "color": 9,
+            "timing": 36,
+            "measure": 47
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 47
+        },
+        {
+            "color": 7,
+            "timing": 36,
+            "measure": 47
+        },
+        {
+            "color": 5,
+            "timing": 39,
+            "measure": 47
+        },
+        {
+            "color": 3,
+            "timing": 42,
+            "measure": 47
+        },
+        {
+            "color": 7,
+            "timing": 45,
+            "measure": 47
+        },
+        {
+            "color": 9,
+            "timing": 0,
+            "measure": 48
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 48
+        },
+        {
+            "color": 1,
+            "timing": 12,
+            "measure": 48
+        },
+        {
+            "color": 3,
+            "timing": 12,
+            "measure": 48
+        },
+        {
+            "color": 5,
+            "timing": 12,
+            "measure": 48
+        },
+        {
+            "color": 7,
+            "timing": 18,
+            "measure": 48
+        },
+        {
+            "color": 3,
+            "timing": 18,
+            "measure": 48
+        },
+        {
+            "color": 5,
+            "timing": 18,
+            "measure": 48
+        },
+        {
+            "color": 1,
+            "timing": 18,
+            "measure": 48
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 48
+        },
+        {
+            "color": 5,
+            "timing": 24,
+            "measure": 48
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 48
+        },
+        {
+            "color": 7,
+            "timing": 30,
+            "measure": 48
+        },
+        {
+            "color": 3,
+            "timing": 30,
+            "measure": 48
+        },
+        {
+            "color": 5,
+            "timing": 30,
+            "measure": 48
+        },
+        {
+            "color": 1,
+            "timing": 30,
+            "measure": 48
+        },
+        {
+            "color": 9,
+            "timing": 33,
+            "measure": 48
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 48
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 48
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 48
+        },
+        {
+            "color": 1,
+            "timing": 42,
+            "measure": 48
+        },
+        {
+            "color": 7,
+            "timing": 42,
+            "measure": 48
+        },
+        {
+            "color": 3,
+            "timing": 42,
+            "measure": 48
+        },
+        {
+            "color": 5,
+            "timing": 42,
+            "measure": 48
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 49
+        },
+        {
+            "color": 6,
+            "timing": 0,
+            "measure": 49
+        },
+        {
+            "color": 4,
+            "timing": 0,
+            "measure": 49
+        },
+        {
+            "color": 7,
+            "timing": 6,
+            "measure": 49
+        },
+        {
+            "color": 3,
+            "timing": 9,
+            "measure": 49
+        },
+        {
+            "color": 7,
+            "timing": 12,
+            "measure": 49
+        },
+        {
+            "color": 1,
+            "timing": 12,
+            "measure": 49
+        },
+        {
+            "color": 3,
+            "timing": 18,
+            "measure": 49
+        },
+        {
+            "color": 8,
+            "timing": 24,
+            "measure": 49
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 49
+        },
+        {
+            "color": 3,
+            "timing": 33,
+            "measure": 49
+        },
+        {
+            "color": 8,
+            "timing": 33,
+            "measure": 49
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 49
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 49
+        },
+        {
+            "color": 3,
+            "timing": 42,
+            "measure": 49
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 49
+        },
+        {
+            "color": 6,
+            "timing": 0,
+            "measure": 50
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 50
+        },
+        {
+            "color": 7,
+            "timing": 6,
+            "measure": 50
+        },
+        {
+            "color": 3,
+            "timing": 9,
+            "measure": 50
+        },
+        {
+            "color": 1,
+            "timing": 12,
+            "measure": 50
+        },
+        {
+            "color": 7,
+            "timing": 12,
+            "measure": 50
+        },
+        {
+            "color": 3,
+            "timing": 18,
+            "measure": 50
+        },
+        {
+            "color": 9,
+            "timing": 24,
+            "measure": 50
+        },
+        {
+            "color": 8,
+            "timing": 24,
+            "measure": 50
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 50
+        },
+        {
+            "color": 3,
+            "timing": 30,
+            "measure": 50
+        },
+        {
+            "color": 8,
+            "timing": 33,
+            "measure": 50
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 50
+        },
+        {
+            "color": 6,
+            "timing": 36,
+            "measure": 50
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 50
+        },
+        {
+            "color": 3,
+            "timing": 42,
+            "measure": 50
+        },
+        {
+            "color": 7,
+            "timing": 45,
+            "measure": 50
+        },
+        {
+            "color": 6,
+            "timing": 47,
+            "measure": 50
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 51
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 51
+        },
+        {
+            "color": 7,
+            "timing": 6,
+            "measure": 51
+        },
+        {
+            "color": 3,
+            "timing": 9,
+            "measure": 51
+        },
+        {
+            "color": 7,
+            "timing": 12,
+            "measure": 51
+        },
+        {
+            "color": 1,
+            "timing": 12,
+            "measure": 51
+        },
+        {
+            "color": 3,
+            "timing": 18,
+            "measure": 51
+        },
+        {
+            "color": 6,
+            "timing": 24,
+            "measure": 51
+        },
+        {
+            "color": 8,
+            "timing": 24,
+            "measure": 51
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 51
+        },
+        {
+            "color": 3,
+            "timing": 33,
+            "measure": 51
+        },
+        {
+            "color": 8,
+            "timing": 33,
+            "measure": 51
+        },
+        {
+            "color": 7,
+            "timing": 36,
+            "measure": 51
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 51
+        },
+        {
+            "color": 3,
+            "timing": 42,
+            "measure": 51
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 51
+        },
+        {
+            "color": 5,
+            "timing": 45,
+            "measure": 51
+        },
+        {
+            "color": 7,
+            "timing": 47,
+            "measure": 51
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 52
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 52
+        },
+        {
+            "color": 8,
+            "timing": 6,
+            "measure": 52
+        },
+        {
+            "color": 6,
+            "timing": 6,
+            "measure": 52
+        },
+        {
+            "color": 6,
+            "timing": 6,
+            "measure": 52
+        },
+        {
+            "color": 3,
+            "timing": 9,
+            "measure": 52
+        },
+        {
+            "color": 1,
+            "timing": 12,
+            "measure": 52
+        },
+        {
+            "color": 7,
+            "timing": 12,
+            "measure": 52
+        },
+        {
+            "color": 5,
+            "timing": 12,
+            "measure": 52
+        },
+        {
+            "color": 6,
+            "timing": 18,
+            "measure": 52
+        },
+        {
+            "color": 4,
+            "timing": 18,
+            "measure": 52
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 52
+        },
+        {
+            "color": 5,
+            "timing": 24,
+            "measure": 52
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 52
+        },
+        {
+            "color": 6,
+            "timing": 30,
+            "measure": 52
+        },
+        {
+            "color": 3,
+            "timing": 30,
+            "measure": 52
+        },
+        {
+            "color": 6,
+            "timing": 30,
+            "measure": 52
+        },
+        {
+            "color": 8,
+            "timing": 33,
+            "measure": 52
+        },
+        {
+            "color": 6,
+            "timing": 35,
+            "measure": 52
+        },
+        {
+            "color": 1,
+            "timing": 36,
+            "measure": 52
+        },
+        {
+            "color": 4,
+            "timing": 36,
+            "measure": 52
+        },
+        {
+            "color": 5,
+            "timing": 42,
+            "measure": 52
+        },
+        {
+            "color": 3,
+            "timing": 42,
+            "measure": 52
+        },
+        {
+            "color": 8,
+            "timing": 0,
+            "measure": 53
+        },
+        {
+            "color": 2,
+            "timing": 0,
+            "measure": 53
+        },
+        {
+            "color": 6,
+            "timing": 0,
+            "measure": 53
+        },
+        {
+            "color": 1,
+            "timing": 5,
+            "measure": 53
+        },
+        {
+            "color": 6,
+            "timing": 9,
+            "measure": 53
+        },
+        {
+            "color": 3,
+            "timing": 9,
+            "measure": 53
+        },
+        {
+            "color": 5,
+            "timing": 12,
+            "measure": 53
+        },
+        {
+            "color": 6,
+            "timing": 18,
+            "measure": 53
+        },
+        {
+            "color": 3,
+            "timing": 18,
+            "measure": 53
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 53
+        },
+        {
+            "color": 7,
+            "timing": 24,
+            "measure": 53
+        },
+        {
+            "color": 2,
+            "timing": 27,
+            "measure": 53
+        },
+        {
+            "color": 4,
+            "timing": 29,
+            "measure": 53
+        },
+        {
+            "color": 6,
+            "timing": 30,
+            "measure": 53
+        },
+        {
+            "color": 8,
+            "timing": 33,
+            "measure": 53
+        },
+        {
+            "color": 1,
+            "timing": 33,
+            "measure": 53
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 53
+        },
+        {
+            "color": 9,
+            "timing": 36,
+            "measure": 53
+        },
+        {
+            "color": 7,
+            "timing": 39,
+            "measure": 53
+        },
+        {
+            "color": 3,
+            "timing": 42,
+            "measure": 53
+        },
+        {
+            "color": 1,
+            "timing": 42,
+            "measure": 53
+        },
+        {
+            "color": 7,
+            "timing": 45,
+            "measure": 53
+        },
+        {
+            "color": 8,
+            "timing": 0,
+            "measure": 54
+        },
+        {
+            "color": 2,
+            "timing": 0,
+            "measure": 54
+        },
+        {
+            "color": 4,
+            "timing": 5,
+            "measure": 54
+        },
+        {
+            "color": 1,
+            "timing": 9,
+            "measure": 54
+        },
+        {
+            "color": 6,
+            "timing": 9,
+            "measure": 54
+        },
+        {
+            "color": 5,
+            "timing": 12,
+            "measure": 54
+        },
+        {
+            "color": 6,
+            "timing": 18,
+            "measure": 54
+        },
+        {
+            "color": 1,
+            "timing": 18,
+            "measure": 54
+        },
+        {
+            "color": 9,
+            "timing": 22,
+            "measure": 54
+        },
+        {
+            "color": 3,
+            "timing": 24,
+            "measure": 54
+        },
+        {
+            "color": 5,
+            "timing": 27,
+            "measure": 54
+        },
+        {
+            "color": 3,
+            "timing": 30,
+            "measure": 54
+        },
+        {
+            "color": 6,
+            "timing": 33,
+            "measure": 54
+        },
+        {
+            "color": 8,
+            "timing": 36,
+            "measure": 54
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 54
+        },
+        {
+            "color": 7,
+            "timing": 39,
+            "measure": 54
+        },
+        {
+            "color": 3,
+            "timing": 42,
+            "measure": 54
+        },
+        {
+            "color": 8,
+            "timing": 45,
+            "measure": 54
+        },
+        {
+            "color": 9,
+            "timing": 0,
+            "measure": 55
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 55
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 55
+        },
+        {
+            "color": 3,
+            "timing": 3,
+            "measure": 55
+        },
+        {
+            "color": 5,
+            "timing": 5,
+            "measure": 55
+        },
+        {
+            "color": 7,
+            "timing": 6,
+            "measure": 55
+        },
+        {
+            "color": 9,
+            "timing": 9,
+            "measure": 55
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 55
+        },
+        {
+            "color": 2,
+            "timing": 15,
+            "measure": 55
+        },
+        {
+            "color": 8,
+            "timing": 18,
+            "measure": 55
+        },
+        {
+            "color": 2,
+            "timing": 21,
+            "measure": 55
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 55
+        },
+        {
+            "color": 6,
+            "timing": 24,
+            "measure": 55
+        },
+        {
+            "color": 3,
+            "timing": 27,
+            "measure": 55
+        },
+        {
+            "color": 5,
+            "timing": 29,
+            "measure": 55
+        },
+        {
+            "color": 7,
+            "timing": 30,
+            "measure": 55
+        },
+        {
+            "color": 9,
+            "timing": 33,
+            "measure": 55
+        },
+        {
+            "color": 6,
+            "timing": 36,
+            "measure": 55
+        },
+        {
+            "color": 8,
+            "timing": 36,
+            "measure": 55
+        },
+        {
+            "color": 2,
+            "timing": 39,
+            "measure": 55
+        },
+        {
+            "color": 8,
+            "timing": 42,
+            "measure": 55
+        },
+        {
+            "color": 6,
+            "timing": 42,
+            "measure": 55
+        },
+        {
+            "color": 2,
+            "timing": 45,
+            "measure": 55
+        },
+        {
+            "color": 1,
+            "timing": 0,
+            "measure": 56
+        },
+        {
+            "color": 7,
+            "timing": 0,
+            "measure": 56
+        },
+        {
+            "color": 5,
+            "timing": 0,
+            "measure": 56
+        },
+        {
+            "color": 2,
+            "timing": 5,
+            "measure": 56
+        },
+        {
+            "color": 9,
+            "timing": 6,
+            "measure": 56
+        },
+        {
+            "color": 7,
+            "timing": 6,
+            "measure": 56
+        },
+        {
+            "color": 3,
+            "timing": 9,
+            "measure": 56
+        },
+        {
+            "color": 8,
+            "timing": 12,
+            "measure": 56
+        },
+        {
+            "color": 1,
+            "timing": 12,
+            "measure": 56
+        },
+        {
+            "color": 6,
+            "timing": 12,
+            "measure": 56
+        },
+        {
+            "color": 7,
+            "timing": 18,
+            "measure": 56
+        },
+        {
+            "color": 5,
+            "timing": 18,
+            "measure": 56
+        },
+        {
+            "color": 2,
+            "timing": 18,
+            "measure": 56
+        },
+        {
+            "color": 1,
+            "timing": 18,
+            "measure": 56
+        },
+        {
+            "color": 8,
+            "timing": 21,
+            "measure": 56
+        },
+        {
+            "color": 2,
+            "timing": 24,
+            "measure": 56
+        },
+        {
+            "color": 6,
+            "timing": 24,
+            "measure": 56
+        },
+        {
+            "color": 4,
+            "timing": 24,
+            "measure": 56
+        },
+        {
+            "color": 1,
+            "timing": 24,
+            "measure": 56
+        },
+        {
+            "color": 7,
+            "timing": 33,
+            "measure": 56
+        },
+        {
+            "color": 8,
+            "timing": 35,
+            "measure": 56
+        },
+        {
+            "color": 9,
+            "timing": 36,
+            "measure": 56
+        },
+        {
+            "color": 4,
+            "timing": 36,
+            "measure": 56
+        },
+        {
+            "color": 3,
+            "timing": 36,
+            "measure": 56
+        },
+        {
+            "color": 5,
+            "timing": 36,
+            "measure": 56
+        }
+    ],
+    "measures": [
+        {
+            "split": 0,
+            "x": 0,
+            "y": -125,
+            "w": -125,
+            "h": 0
+        },
+        {
+            "split": 16,
+            "x": 21,
+            "y": 920,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 21,
+            "y": 792,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 21,
+            "y": 664,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 21,
+            "y": 536,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 21,
+            "y": 408,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 21,
+            "y": 280,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 21,
+            "y": 152,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 21,
+            "y": 24,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 151,
+            "y": 920,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 151,
+            "y": 792,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 151,
+            "y": 664,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 151,
+            "y": 536,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 151,
+            "y": 408,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 151,
+            "y": 280,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 151,
+            "y": 152,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 151,
+            "y": 24,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 281,
+            "y": 920,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 281,
+            "y": 792,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 281,
+            "y": 664,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 281,
+            "y": 536,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 281,
+            "y": 408,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 281,
+            "y": 280,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 281,
+            "y": 152,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 281,
+            "y": 24,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 411,
+            "y": 920,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 411,
+            "y": 792,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 411,
+            "y": 664,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 411,
+            "y": 536,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 411,
+            "y": 408,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 411,
+            "y": 280,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 411,
+            "y": 152,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 411,
+            "y": 24,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 541,
+            "y": 920,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 541,
+            "y": 792,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 541,
+            "y": 664,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 541,
+            "y": 536,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 541,
+            "y": 408,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 541,
+            "y": 280,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 541,
+            "y": 152,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 541,
+            "y": 24,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 671,
+            "y": 920,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 671,
+            "y": 792,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 671,
+            "y": 664,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 671,
+            "y": 536,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 671,
+            "y": 408,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 671,
+            "y": 280,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 671,
+            "y": 152,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 671,
+            "y": 24,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 801,
+            "y": 920,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 801,
+            "y": 792,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 801,
+            "y": 664,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 801,
+            "y": 536,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 801,
+            "y": 408,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 801,
+            "y": 280,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 801,
+            "y": 152,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 801,
+            "y": 24,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 931,
+            "y": 920,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 931,
+            "y": 792,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 931,
+            "y": 664,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 931,
+            "y": 536,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 931,
+            "y": 408,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 931,
+            "y": 280,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 931,
+            "y": 152,
+            "w": 117,
+            "h": 128
+        },
+        {
+            "split": 16,
+            "x": 931,
+            "y": 24,
+            "w": 117,
+            "h": 128
+        }
+    ],
+    "soflans": [],
+    "startMeasureNum": 1
+}
