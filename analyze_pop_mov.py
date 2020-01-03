@@ -1,6 +1,7 @@
 import cv2
 import json
-import csv
+# GNU LGPL
+# (c) royalcrab@bbled.org 2020
 
 # fixed values
 offset_x = 40
