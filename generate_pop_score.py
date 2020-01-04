@@ -7,9 +7,11 @@ json_file = "rects.json"
 new_notes = []
 # mp4_fps = 58.42 # harmonia
 # mp4_fps = 59.95 # mallet
-mp4_fps = 73.7565 # heaven
+#mp4_fps = 73.7565 # heaven
+mp4_fps = 59.95
 # mp4_fps = 73.7565 # heaven
-offset = 3.0 # sayonara heaven
+#offset = 3.0 # sayonara heaven
+offset = 0.0
 
 # later -> down
 # faster => up

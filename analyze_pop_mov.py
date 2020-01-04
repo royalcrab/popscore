@@ -42,6 +42,16 @@ elif m == 1:
     bpm = 177.0
     mp4_fps = 58.42
 
+elif m == 2:
+    # harmonia
+    start_frame = 27 * fps
+    end_frame = 161 * fps
+    reference_frame = 22 * fps
+    src = 'popn/Encode_2530.mp4'
+    hsp = 3.9
+    bpm = 170.0
+    mp4_fps = 59.95
+
 else:
     # sayonara heaven
     start_frame = 18 * fps
