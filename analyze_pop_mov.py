@@ -96,7 +96,8 @@ for num in range( start_frame, end_frame ):
     gray = cv2.cvtColor(d1, cv2.COLOR_BGR2GRAY) 
     ret, img = cv2.threshold(gray, 100, 255, cv2.THRESH_BINARY)
 
-    contours, hierarchy = cv2.findContours(img, cv2.RETR_LIST, cv2.CHAIN_APPROX_SIMPLE)
+    # contours, hierarchy = cv2.findContours(img, cv2.RETR_LIST, cv2.CHAIN_APPROX_SIMPLE) # old opencv
+    image, contours, hierarchy = cv2.findContours(img, cv2.RETR_LIST, cv2.CHAIN_APPROX_SIMPLE)
     for i in range(0,9):
         rane_dat[i] = 0
 
